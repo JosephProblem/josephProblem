@@ -24,11 +24,11 @@ The convention used for naming the unit testing classes was {className}Spec.
 ## Algorithm
 The basic problem is described here https://en.wikipedia.org/wiki/Josephus_problem.
 
-it can be written programmatically as: 
-f = the function to return the best place to stand
-n = number of ppl
-k = step count. 
-e.g.
+it can be written programmatically as:  
+f = the function to return the best place to stand  
+n = number of ppl  
+k = step count.   
+e.g.  
 f(n,k) = answer
 
 One approach would be to iteratively remove people from the list, 
