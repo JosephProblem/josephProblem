@@ -21,6 +21,9 @@ object ACountingProblem {
 
     /** private method that computes the ideal location to stand in the circle to avoid death.
       *
+      * All documation about the algorithim as we kept in the README.md
+      *
+      *
       * WARNING This method treats the first position in the circle as 0, for convince sake.
       * all external systems must call the public method below to get the result in a more human readable format .i.e first position in circle is 1.
       */
